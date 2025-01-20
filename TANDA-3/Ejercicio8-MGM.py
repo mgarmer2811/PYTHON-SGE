@@ -31,10 +31,6 @@ def peorEstudiante(estudiantes):
 
     return peorEstudiante
 
-
-def peorEstudiante(estudiantes):
-    return 0
-
 while(not fin):
     nombre = input("Bro dame el nombre del estudiante [Introduce 'FIN' para terminar]\n")
 
@@ -50,3 +46,6 @@ while(not fin):
     else:
         print(nombre,": Estudiante NO añadido porque ya está en el sistema\n")
 
+print("El promedio de nota de los estudiantes es: ",promedio(estudiantes))
+print("El mejor estudiante es: ",mejorEstudiante(estudiantes))
+print("El peor estudiante es: ",peorEstudiante(estudiantes))
