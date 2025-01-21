@@ -16,7 +16,7 @@ class Coche(Vehiculo):
     
     def informacion(self):
         super().informacion()
-        print("CC: ")
+        print("Cv: ",self.cv,"\n")
 
     def circular(self):
         print("El coche esta circulando\n")
@@ -29,7 +29,7 @@ class Moto(Vehiculo):
 
     def informacion(self):
         super().informacion()
-        print("Cv: ")
+        print("CC: ",self.cc,"\n")
     
     def circular(self):
         print("La moto esta circulando\n")
