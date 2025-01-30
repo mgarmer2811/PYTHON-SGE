@@ -1,4 +1,4 @@
-nombreArchivo = input("Introduce el nombre del archivo a leer")
+nombreArchivo = input("Introduce el nombre del archivo a leer\n")
 
 try:
     archivo = open(nombreArchivo,"r",encoding="utf-8")
