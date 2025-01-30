@@ -1,0 +1,9 @@
+2025-01-30 12:00:01 INFO - Inicio de la sesión
+2025-01-30 12:01:15 ERROR - Error en la base de datos
+2025-01-30 12:02:30 INFO - Usuario autenticado correctamente
+2025-01-30 12:02:30 INFO - Usuario autenticado correctamente
+2025-01-30 12:03:45 ERROR - Error en la base de datos
+2025-01-30 12:05:00 INFO - Inicio de la sesión
+2025-01-30 12:10:15 WARNING - Espacio en disco bajo
+2025-01-30 12:10:15 WARNING - Espacio en disco bajo
+2025-01-30 12:15:00 INFO - Finalizando la sesión

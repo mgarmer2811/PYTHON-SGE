@@ -1,0 +1,4 @@
+Línea 1: Esto es un archivo de prueba.
+Línea 2: Contiene algunas líneas de texto.
+Línea 3: Para comprobar la lectura en Python.
+Línea 4: Fin del archivo.
