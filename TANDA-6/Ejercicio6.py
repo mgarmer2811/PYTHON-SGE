@@ -1,6 +1,6 @@
 import json
 
-nombre_archivo = 'archivo.json'
+nombre_archivo = 'archivoInvalido.json'
 
 try:
     with open(nombre_archivo, 'r') as archivo:

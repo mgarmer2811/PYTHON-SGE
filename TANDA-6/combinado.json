@@ -1,0 +1,26 @@
+{
+    "estudiantes": [
+        {
+            "nombre": "Ana",
+            "calificacion": 85
+        },
+        {
+            "nombre": "Luis",
+            "calificacion": 90
+        },
+        {
+            "nombre": "Mar\u00c3\u00ada",
+            "calificacion": 78
+        }
+    ],
+    "profesores": [
+        {
+            "nombre": "Dr. P\u00c3\u00a9rez",
+            "materia": "Matem\u00c3\u00a1ticas"
+        },
+        {
+            "nombre": "Sra. G\u00c3\u00b3mez",
+            "materia": "Historia"
+        }
+    ]
+}
